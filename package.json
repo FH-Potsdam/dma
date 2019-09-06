@@ -5,7 +5,7 @@
   "description": "Starter kit for the seminar \"Creative Technologists - Tracing the City\" @ University of Applied Sciences Potsdam (Germany) by Fabian Morón Zirfas",
   "main": "index.html",
   "scripts": {
-    "start": "echo \"running on http://localhost:3000\" && reload -p 3000"
+    "start": "echo \"running on http://localhost:3000\" && reload --browser --port 3000"
   },
   "keywords": [
     "p5js, p5"
