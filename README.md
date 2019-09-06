@@ -26,7 +26,7 @@ See the some results of the seminar gestalten-in-code for some inspiration.
 - And many more [great projects](https://interface.fh-potsdam.de/gestalten-in-code/projects/) from this series
 - And here are even more [code snippets you can learn from](https://interface.fh-potsdam.de/gestalten-in-code/categories/)[^2]
 
-## Usage if the Code
+## Usage of the Code
 
 1. If you are enrolled the GitHub classroom for the seminar - accept the invite for your first assignment. If not clone the repo by running `git clone git@github.com:FH-Potsdam/dma.git`, [download the source](https://github.com/FH-Potsdam/dma/archive/master.zip) or [use it as a template](https://github.com/FH-Potsdam/dma/generate) from the GitHub interface.
 
