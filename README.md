@@ -7,6 +7,9 @@
 1. Find a master artist/group/style
 2. Analyse one or several of her/his/their/its works.
 3. Create an algorithm that generates versions of these works.
+4. Update this README.md with some informations about your Artist(s) and describe your result.
+5. Save three **extraordinary** results as png files and add them to this README.md
+6. Prepare a verbal 2 minute presentation of your project.
 
 ### Hints
 
@@ -44,15 +47,15 @@ Pull requests and stars are always welcome. For bugs and feature requests, [plea
 
 ## Author(s)
 
-**Fabian Morón Zirfas**
+**Fabian Morón Zirfas:**
 
-* [github/](https://github.com/fabianmoronzirfas)
-* [twitter/](http://twitter.com/fmoronzirfas)
+- [github/](https://github.com/fabianmoronzirfas)
+- [twitter/](http://twitter.com/fmoronzirfas)
 
 ## License
 
 Copyright © 2019 [Fabian Morón Zirfas](https://fabianmoronzirfas.me)
 Licensed under the MIT license.
 
-[^1]: Please extend this list with some more artists. Also no women here?
+[^1]: Please extend this list with some more artists. Also no women here?  
 [^2]: Some of the examples are not written for P5.js but for Basil.js or Processing. Try to port them, ask for help.
