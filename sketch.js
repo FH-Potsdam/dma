@@ -1,7 +1,8 @@
 console.log("Hello sketch.js");
 let x = 0;
+let canvas = undefined;
 function setup() {
-  const canvas = createCanvas(100, 100);
+  canvas = createCanvas(100, 100);
   canvas.parent("sketch");
 }
 
@@ -11,5 +12,14 @@ function draw() {
   x++;
   if (x >= width) {
     x = 0;
+  }
+}
+
+function mousePressed() {
+  if (key === "s" || key === "S") {
+    if (canvas === undefined) {
+      throw new Error("Could not find your canvas");
+    }
+    saveCanvas(canvas, "sketch", "png");
   }
 }
