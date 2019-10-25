@@ -2,6 +2,7 @@
 
 > Starter kit for the seminar "Creative Technologists - Tracing the City" @ University of Applied Sciences Potsdam (Germany) winter semester 2019/2020 by Fabian Morón Zirfas
 
+
 ## Assignment
 
 1. Find a master artist/group/style
@@ -29,7 +30,7 @@ See the some results of the seminar gestalten-in-code for some inspiration.
 - And many more [great projects](https://interface.fh-potsdam.de/gestalten-in-code/projects/) from this series
 - And here are even more [code snippets you can learn from](https://interface.fh-potsdam.de/gestalten-in-code/categories/)[^2]
 
-## Usage of the Code
+## Usage
 
 1. If you are enrolled the GitHub classroom for the seminar - accept the invite for your first assignment. If not clone the repo by running `git clone git@github.com:FH-Potsdam/dma.git`, [download the source](https://github.com/FH-Potsdam/dma/archive/master.zip) or [use it as a template](https://github.com/FH-Potsdam/dma/generate) from the GitHub interface.
 
