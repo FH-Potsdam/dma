@@ -15,7 +15,7 @@ function draw() {
   }
 }
 
-function mousePressed() {
+function keyPressed() {
   if (key === "s" || key === "S") {
     if (canvas === undefined) {
       throw new Error("Could not find your canvas");
